@@ -1,0 +1,2 @@
+# SQL-QUERIES-ATLIQ-HARDWARE-AD-HOC-INSIGHTS
+SQL Queries to answer 10 Ad Hoc request
